@@ -94,9 +94,6 @@ input[type="submit"] {
   font-size: 14px;
   font-weight: 400;
 }
-.article img {
-  width: 100%;
-}
 
 .return {
   text-decoration: none;
@@ -138,6 +135,9 @@ input[type="submit"] {
   opacity: .75;
   font-weight: 400;
   font-size: 18px;
+}
+.article-content img {
+  width: 100%;
 }
 .article-content .date {
   margin-bottom: 18.75px;
