@@ -94,6 +94,9 @@ input[type="submit"] {
   font-size: 14px;
   font-weight: 400;
 }
+.article img {
+  width: 100%;
+}
 
 .return {
   text-decoration: none;
