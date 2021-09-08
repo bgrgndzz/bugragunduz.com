@@ -9,14 +9,14 @@ body {
 }
 
 h1, h2, h3 {
-  color: #000033;
+  color: #001133;
 }
 .bio {
   margin-bottom: 25px;
 }
 .bio .subtitle {
   font-size: 24px;
-  color: #000033;
+  color: #001133;
   opacity: .75;
   margin-bottom: 12.5px;
   display: block;
@@ -69,10 +69,13 @@ input[type="email"] {
 }
 input[type="submit"] {
   border: 0;
-  background-color: #000033;
+  background-color: #001133;
   color: white;
   cursor: pointer;
   padding: 10px;
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
 }
 
 .article {
@@ -85,11 +88,11 @@ input[type="submit"] {
 .article h3 {
   font-weight: 400;
   font-size: 20px;
-  color: #000033;
+  color: #001133;
   display: inline-block;
 }
 .article span {
-  color: #000033;
+  color: #001133;
   opacity: .4;
   font-size: 14px;
   font-weight: 400;
@@ -97,7 +100,7 @@ input[type="submit"] {
 
 .return {
   text-decoration: none;
-  color: #000033;
+  color: #001133;
   opacity: .75;
   margin-bottom: 12.5px;
   display: inline-block;
@@ -111,7 +114,7 @@ input[type="submit"] {
 .article-content h2,
 .article-content h3 {
   line-height: 1.7;
-  color: #000033;
+  color: #001133;
   font-weight: 400;
 }
 .article-content h1 {
@@ -131,7 +134,7 @@ input[type="submit"] {
 .article-content span {
   line-height: 1.7;
   margin-bottom: 25px;
-  color: #000033;
+  color: #001133;
   opacity: .75;
   font-weight: 400;
   font-size: 18px;
@@ -142,7 +145,7 @@ input[type="submit"] {
 .article-content .date {
   margin-bottom: 18.75px;
   display: block;
-  color: #000033;
+  color: #001133;
   opacity: .4;
   font-size: 16px;
   font-weight: 400;
